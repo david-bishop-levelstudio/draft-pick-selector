@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/draft-pick-selector/static/js/app.29825915.chunk.js",
-    "app.js.map": "/draft-pick-selector/static/js/app.29825915.chunk.js.map",
+    "app.js": "/draft-pick-selector/static/js/app.016fe21f.chunk.js",
+    "app.js.map": "/draft-pick-selector/static/js/app.016fe21f.chunk.js.map",
     "runtime~app.js": "/draft-pick-selector/static/js/runtime~app.2331e868.js",
     "runtime~app.js.map": "/draft-pick-selector/static/js/runtime~app.2331e868.js.map",
     "static/js/2.0c5b5552.chunk.js": "/draft-pick-selector/static/js/2.0c5b5552.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.2331e868.js",
     "static/js/2.0c5b5552.chunk.js",
-    "static/js/app.29825915.chunk.js"
+    "static/js/app.016fe21f.chunk.js"
   ]
 }
