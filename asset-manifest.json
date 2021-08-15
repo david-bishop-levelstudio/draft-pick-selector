@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/david-bishop-levelstudio/draft-pick-selector.git/static/js/app.29825915.chunk.js",
+    "app.js.map": "/david-bishop-levelstudio/draft-pick-selector.git/static/js/app.29825915.chunk.js.map",
+    "runtime~app.js": "/david-bishop-levelstudio/draft-pick-selector.git/static/js/runtime~app.bfde54b7.js",
+    "runtime~app.js.map": "/david-bishop-levelstudio/draft-pick-selector.git/static/js/runtime~app.bfde54b7.js.map",
+    "static/js/2.68c89688.chunk.js": "/david-bishop-levelstudio/draft-pick-selector.git/static/js/2.68c89688.chunk.js",
+    "static/js/2.68c89688.chunk.js.map": "/david-bishop-levelstudio/draft-pick-selector.git/static/js/2.68c89688.chunk.js.map",
+    "favicon-16.png": "/david-bishop-levelstudio/draft-pick-selector.git/favicon-16.png",
+    "favicon-32.png": "/david-bishop-levelstudio/draft-pick-selector.git/favicon-32.png",
+    "favicon.ico": "/david-bishop-levelstudio/draft-pick-selector.git/favicon.ico",
+    "index.html": "/david-bishop-levelstudio/draft-pick-selector.git/index.html",
+    "manifest.json": "/david-bishop-levelstudio/draft-pick-selector.git/manifest.json",
+    "serve.json": "/david-bishop-levelstudio/draft-pick-selector.git/serve.json",
+    "static/js/2.68c89688.chunk.js.LICENSE.txt": "/david-bishop-levelstudio/draft-pick-selector.git/static/js/2.68c89688.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.bfde54b7.js",
+    "static/js/2.68c89688.chunk.js",
+    "static/js/app.29825915.chunk.js"
+  ]
+}
