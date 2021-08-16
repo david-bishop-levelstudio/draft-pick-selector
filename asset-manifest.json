@@ -1,22 +1,34 @@
 {
   "files": {
-    "app.js": "/draft-pick-selector/static/js/app.016fe21f.chunk.js",
-    "app.js.map": "/draft-pick-selector/static/js/app.016fe21f.chunk.js.map",
+    "app.js": "/draft-pick-selector/static/js/app.152bea35.chunk.js",
+    "app.js.map": "/draft-pick-selector/static/js/app.152bea35.chunk.js.map",
     "runtime~app.js": "/draft-pick-selector/static/js/runtime~app.2331e868.js",
     "runtime~app.js.map": "/draft-pick-selector/static/js/runtime~app.2331e868.js.map",
-    "static/js/2.0c5b5552.chunk.js": "/draft-pick-selector/static/js/2.0c5b5552.chunk.js",
-    "static/js/2.0c5b5552.chunk.js.map": "/draft-pick-selector/static/js/2.0c5b5552.chunk.js.map",
+    "static/js/2.8438e71b.chunk.js": "/draft-pick-selector/static/js/2.8438e71b.chunk.js",
+    "static/js/2.8438e71b.chunk.js.map": "/draft-pick-selector/static/js/2.8438e71b.chunk.js.map",
+    "fonts/AntDesign.ttf": "/draft-pick-selector/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/draft-pick-selector/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/draft-pick-selector/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/draft-pick-selector/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/draft-pick-selector/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/draft-pick-selector/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/draft-pick-selector/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/draft-pick-selector/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/draft-pick-selector/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/draft-pick-selector/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/draft-pick-selector/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/draft-pick-selector/./fonts/SimpleLineIcons.ttf",
     "favicon-16.png": "/draft-pick-selector/favicon-16.png",
     "favicon-32.png": "/draft-pick-selector/favicon-32.png",
     "favicon.ico": "/draft-pick-selector/favicon.ico",
     "index.html": "/draft-pick-selector/index.html",
     "manifest.json": "/draft-pick-selector/manifest.json",
     "serve.json": "/draft-pick-selector/serve.json",
-    "static/js/2.0c5b5552.chunk.js.LICENSE.txt": "/draft-pick-selector/static/js/2.0c5b5552.chunk.js.LICENSE.txt"
+    "static/js/2.8438e71b.chunk.js.LICENSE.txt": "/draft-pick-selector/static/js/2.8438e71b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.2331e868.js",
-    "static/js/2.0c5b5552.chunk.js",
-    "static/js/app.016fe21f.chunk.js"
+    "static/js/2.8438e71b.chunk.js",
+    "static/js/app.152bea35.chunk.js"
   ]
 }
